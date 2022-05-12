@@ -1,13 +1,13 @@
 {
-  "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @MaxxBots",
+  "name": "Telegram Torrent ",
+  "description": "ok Just try",
   "logo": "https://telegra.ph/file/101a7d52e02772152c6e3.jpg",
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/MaxxRider/Leech-Pro",
+  "repository": "https://github.com/arflix/proa",
   "success_url": "https://t.me/MaxxBotChat",
-  "website": "https://github.com/MaxxRider/Leech-Pro",
+  "website": "https://github.com/arflix/proa",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -15,23 +15,23 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "4603580"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "e58b96ecf11c80e7f60f9aa17a7b72cb"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "1983338328:AAFbaZytvUzyl6q9oMIjJ-jyGRlvl53uVt0"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work., Put Group ID",
-      "value": ""
+      "value": "-467409027"
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "value": "1499759389"
     },
     "UPLOAD_AS_DOC": {
       "description": "True/False. If true all files will be uploaded as documents. Default is False.",
