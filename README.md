@@ -148,7 +148,9 @@
 ➢ `/cancel`
 
 ➢ `/status`
+##Deploy
 
+[![Deploy of Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suryasandy/proa)
 
 [![Maxx](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
 
